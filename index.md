@@ -1,6 +1,6 @@
 ## Welcome to my homepage
 
-I'm taking CS-HU250, CS-HU271, CS321, CS253, MATH360, and MATH301 right now. I've used GitHub before (only a tiny bit) so I know some things but I'm learning a lot.
+I'm taking CS-HU250, CS-HU271, CS321, CS253, MATH360, and MATH301 right now. I've used GitHub before (only a tiny bit) so I know some things but I'm learning a lot. I've never used the pages feature before.
 
 ### I'm gonna leave the markdown here cause it looks cool
 Emojis: 🐮🐱☘️✨
